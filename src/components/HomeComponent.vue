@@ -91,27 +91,27 @@ export default {
         },
         {
           imagen: Imagen2,
-          titulo: "Valentín Dorantes - Fotografía y Video",
+          titulo: "GO-AM Reality Horizons V2",
           descripcion: "Lorem ipsum, dolor sit amet consectetur adipisicing elit...",
         },
         {
           imagen: Imagen3,
-          titulo: "XIB Creative",
+          titulo: "GO-AM Reality Horizons V3",
           descripcion: "Lorem ipsum, dolor sit amet consectetur adipisicing elit...",
         },
         {
           imagen: Imagen4,
-          titulo: "Camisetas personalizadas",
+          titulo: "GO-AM Reality Horizons V4",
           descripcion: "Lorem ipsum, dolor sit amet consectetur adipisicing elit...",
         },
         {
           imagen: Imagen5,
-          titulo: "VIII Festival Cultural Italiano",
+          titulo: "GO-AM Reality Horizons V5",
           descripcion: "Lorem ipsum, dolor sit amet consectetur adipisicing elit...",
         },
         {
           imagen: Imagen6,
-          titulo: "App de Café",
+          titulo: "EL CAFE ES BUENO PARA LA SALUD?",
           descripcion: "Lorem ipsum, dolor sit amet consectetur adipisicing elit...",
         },
       ],
