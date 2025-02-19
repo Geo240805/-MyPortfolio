@@ -11,7 +11,7 @@
 
     <section class="about" id="ABOUTME">
       <div class="about-content">
-        <img :src="profileImage" alt="Your Name" class="profile-image">
+        <img :src="profileImage" alt="Geo" class="profile-image">
         <div class="about-text">
           <h2 class="aabout">Sobre mí</h2>
           <p>
